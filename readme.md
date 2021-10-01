@@ -9,7 +9,7 @@
 ## Description
 
 Dfinance-sync is a backend server written in js to sync data from some canister and exports apis to manage
-these schedule jobs. You can find a management page at [here](https://github.com/Dapiguabc/sync-web).
+these schedule jobs. You can find a management page at [here](https://github.com/Dapiguabc/sync-web) or a [demo](http://150.158.167.68:5000/jobs).
 
 
 ## Web Management Page
