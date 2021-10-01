@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+      "module": "esnext",             
+      "target": "esnext",
+      "lib": ["es2020"],
+      "esModuleInterop": true,
+      "moduleResolution": "node",
+      "noImplicitAny": false,
+      "sourceMap": false,   
+      "rootDir":"./src",
+      "outDir":"./build",   
+      "watch": false,
+  },
+  "include":[
+      "./src/**/*"
+  ],
+  "exclude":[
+      "views",
+      "static",
+      "node_modules"
+  ]
+}
